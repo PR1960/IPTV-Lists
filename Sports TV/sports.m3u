@@ -1,0 +1,193 @@
+#EXTINF#
+#EXTM3U
+#EXTINF:1,Sky SPORTS 1HD
+
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+
+#EXTINF:1,Sky SPORTS 2HD
+
+http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
+
+#EXTINF:1,Sky SPORTS 3HD
+
+http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
+
+#EXTINF:1,Sky SPORTS 4HD
+
+http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
+
+#EXTINF:1,Sky SPORTS 5HD
+
+http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+
+#EXTINF:0,BeIN Sports 1
+
+http://5.189.140.216:2020/skype/smail-boino/160.ch
+
+#EXTINF:0,BeIN Sports 2
+
+http://5.189.140.216:2020/skype/smail-boino/159.ch
+
+#EXTINF:0,BeIN Sports 3
+
+http://5.189.140.216:2020/skype/smail-boino/158.ch
+
+#EXTINF:0,BeIN Sports 4
+
+http://5.189.140.216:2020/skype/smail-boino/157.ch
+
+#EXTINF:0,BeIN Sports 5
+
+http://5.189.140.216:2020/skype/smail-boino/183.ch
+
+#EXTINF:0,BeIN Sports 6
+
+http://5.189.140.216:2020/skype/smail-boino/184.ch
+
+#EXTINF:0,BeIN Sports 7
+
+http://5.189.140.216:2020/skype/smail-boino/185.ch
+
+#EXTINF:0,BeIN Sports 8
+
+http://5.189.140.216:2020/skype/smail-boino/186.ch
+
+#EXTINF:0,FR:BeIN SPORTS 1 HD FR
+
+http://5.189.140.216:2020/skype/smail-boino/1.ch
+
+#EXTINF:0,FR: BeIN SPORTS 2 HD FR
+
+http://5.189.140.216:2020/skype/smail-boino/2.ch
+
+#EXTINF:0,FR: Canal Plus Sport
+
+http://5.189.140.216:2020/skype/smail-boino/5.ch
+
+#EXTINF:0,FR: Canal Plus
+
+http://5.189.140.216:2020/skype/smail-boino/3.ch
+
+#EXTINF:0,BEIN 1 LQ
+
+http://5.189.140.216:2020/skype/smail-boino/83.ch
+
+#EXTINF:0,Bein 3 LQ
+
+http://5.189.140.216:2020/skype/smail-boino/89.ch
+
+#EXTINF:0,UK: Sky Sports 1
+
+http://5.189.140.216:2020/skype/smail-boino/99.ch
+
+#EXTINF:0,UK Sky Sports 2
+
+http://5.189.140.216:2020/skype/smail-boino/104.ch
+
+#EXTINF:0,SKY SPORTS 3
+
+http://5.189.140.216:2020/skype/smail-boino/138.ch
+
+#EXTINF:0,UK: Sky Sports 4
+
+http://5.189.140.216:2020/skype/smail-boino/98.ch
+
+#EXTINF:0,UK: Sky Sports 5
+
+http://5.189.140.216:2020/skype/smail-boino/97.ch
+
+#EXTINF:0,UK: BT Sports 1
+
+http://5.189.140.216:2020/skype/smail-boino/103.ch
+
+#EXTINF:0,UK: BT Sports 2
+
+http://5.189.140.216:2020/skype/smail-boino/102.ch
+
+#EXTINF:0,UK: MUTV
+
+http://5.189.140.216:2020/skype/smail-boino/101.ch
+
+#EXTINF:0,ALB : Super sports 1
+
+http://5.189.140.216:2020/skype/smail-boino/146.ch
+
+#EXTINF:0,Sport TV 1 PORTOGALLO
+
+http://5.189.140.216:2020/skype/smail-boino/152.ch
+
+#EXTINF:0,Sport TV 3 PORTOGALLO
+
+http://5.189.140.216:2020/skype/smail-boino/150.ch
+
+#EXTINF:0,BT SPORTS2
+
+http://5.189.140.216:2020/skype/smail-boino/123.ch
+
+#EXTINF:0,OSN-MoviesHD-Action
+
+http://5.189.140.216:2020/skype/smail-boino/187.ch
+
+#EXTINF:0,AR: MELODY AFLAM
+
+http://5.189.140.216:2020/skype/smail-boino/107.ch
+
+#EXTINF:0,AR: MELODY DRAMA
+
+http://5.189.140.216:2020/skype/smail-boino/105.ch
+
+#EXTINF:0,Sky National Geographic HD
+
+http://5.189.140.216:2020/skype/smail-boino/154.ch
+
+#EXTINF:0,Sky Nat Geo People HD
+
+http://5.189.140.216:2020/skype/smail-boino/156.ch
+
+#EXTINF:0,Sky Nat Geo Wild HD
+
+http://5.189.140.216:2020/skype/smail-boino/155.ch
+
+#EXTINF:0,UK: Sky Movies Sci-Fi & Horror
+
+http://5.189.140.216:2020/skype/smail-boino/100.ch
+
+#EXTINF:0,Movies_Action
+
+http://5.189.140.216:2020/skype/smail-boino/124.ch
+
+#EXTINF:0,Movies_Comedy
+
+http://5.189.140.216:2020/skype/smail-boino/126.ch
+
+#EXTINF:0,Movies_Disney
+
+http://5.189.140.216:2020/skype/smail-boino/127.ch
+
+#EXTINF:0,Movies_Drama
+
+http://5.189.140.216:2020/skype/smail-boino/128.ch
+
+#EXTINF:0,Movies_Family
+
+http://5.189.140.216:2020/skype/smail-boino/129.ch
+
+#EXTINF:0,Movies_Modern
+
+http://5.189.140.216:2020/skype/smail-boino/130.ch
+
+#EXTINF:0,Movies_Premiere
+
+http://5.189.140.216:2020/skype/smail-boino/131.ch
+
+#EXTINF:0,Movies_Sci-Fi&Horror
+
+http://5.189.140.216:2020/skype/smail-boino/132.ch
+
+#EXTINF:0,Movies_Select
+
+http://5.189.140.216:2020/skype/smail-boino/133.ch
+
+#EXTINF:0,Movies_Thriller
+
+http://5.189.140.216:2020/skype/smail-boino/135.ch
